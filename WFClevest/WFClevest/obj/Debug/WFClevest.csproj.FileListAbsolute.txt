@@ -1,0 +1,9 @@
+C:\VS2017Test\WFClevest\WFClevest\bin\Debug\WFClevest.exe.config
+C:\VS2017Test\WFClevest\WFClevest\bin\Debug\WFClevest.exe
+C:\VS2017Test\WFClevest\WFClevest\bin\Debug\WFClevest.pdb
+C:\VS2017Test\WFClevest\WFClevest\obj\Debug\WFClevest.Assignment.resources
+C:\VS2017Test\WFClevest\WFClevest\obj\Debug\WFClevest.Properties.Resources.resources
+C:\VS2017Test\WFClevest\WFClevest\obj\Debug\WFClevest.csproj.GenerateResource.Cache
+C:\VS2017Test\WFClevest\WFClevest\obj\Debug\WFClevest.csproj.CoreCompileInputs.cache
+C:\VS2017Test\WFClevest\WFClevest\obj\Debug\WFClevest.exe
+C:\VS2017Test\WFClevest\WFClevest\obj\Debug\WFClevest.pdb
